@@ -11,6 +11,8 @@ proyectos y mis intereses.
 * Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web] 
 ## Proyectos 
-* [Lista de tus proyectos] 
+* https://github.com/bgzhangg/Proyecto-SBD
+* https://github.com/bgzhangg/Calendar-URL-generator
+* https://github.com/bgzhangg/PooProyecto
 ## Intereses 
 * [Lista de tus intereses]
