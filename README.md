@@ -11,8 +11,11 @@ proyectos y mis intereses.
 * Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web] 
 ## Proyectos 
-* https://github.com/bgzhangg/Proyecto-SBD
-* https://github.com/bgzhangg/Calendar-URL-generator
-* https://github.com/bgzhangg/PooProyecto
+* ### https://github.com/bgzhangg/Proyecto-SBD
+  Proyecto donde se replica la pagina de BlaBlaCar para poder entender el uso de bases de datos y SQL
+* ### https://github.com/bgzhangg/Calendar-URL-generator
+  Script usado para generar URLs para agregar eventos a Google Calendar
+* ### https://github.com/bgzhangg/PooProyecto
+  Juego de domino realizado con Java
 ## Intereses 
 * [Lista de tus intereses]
