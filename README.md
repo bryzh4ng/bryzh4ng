@@ -18,4 +18,7 @@ proyectos y mis intereses.
 * ### https://github.com/bgzhangg/PooProyecto
   Juego de domino realizado con Java
 ## Intereses 
-* [Lista de tus intereses]
+* Base de datos
+* Google SDK
+* Webscrapping
+* JavaFX
